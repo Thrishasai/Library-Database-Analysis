@@ -1,0 +1,2 @@
+# Library-Database-Analysis
+Thisproject'sprimaryobjectiveistouseSQLtodesignandanalyzealibrarymanagementdatabase.Withappropriaterelationshipsbetweenentitieslikepublishers,books,authors,borrowers,andlibrarybranches,theprojectseekstobuildastructureddatabase.
